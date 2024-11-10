@@ -1,0 +1,13 @@
+To Play enter the GitHub Pages URL: 
+
+https://playimmg.github.io/Mocart/
+
+Mouse Click a product on the shelf to Bring the UI
+
+UI:
+
+The UI always display details of the last product clicked.
+
+Click on the Product Name / Price / Description to start edit mode, Press apply when finished and the new value will be saved.
+
+

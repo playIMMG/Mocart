@@ -1,0 +1,6 @@
+The project fetches product data from the server, updates the product information in a ProductData ScriptableObject, and displays the products in the Unity scene.
+
+
+Server communication handled by GET request to the API and updates the product data using UnityWebRequest.
+Using UnityAction / Events to reduce dependencies.
+And using Scriptable objects to store and change data easily.
